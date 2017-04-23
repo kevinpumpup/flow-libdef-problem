@@ -1,0 +1,13 @@
+{
+  "name": "foo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "4"
+  },
+  "devDependencies": {
+    "flow-bin": "^0.44.2",
+    "flow-typed": "^2.1.1"
+  }
+}
